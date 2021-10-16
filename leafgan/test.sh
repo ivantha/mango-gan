@@ -1,0 +1,1 @@
+python test.py --dataroot dataset --name kov_leafGAN --model leaf_gan
